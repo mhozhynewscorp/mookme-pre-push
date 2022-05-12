@@ -2,7 +2,7 @@
   "steps": [
     {
       "name": "B commit",
-      "command": "echo \"Run B pre-commit\""
+      "command": "npm run lint"
     }
   ]
 }

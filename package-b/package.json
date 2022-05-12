@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "echo \"Run B pre-commit\"",
     "test": "echo \"Error: no test specified for B\" && exit 1"
   },
   "keywords": [],
