@@ -2,7 +2,7 @@
   "steps": [
     {
       "name": "B push",
-      "command": "echo \"Run B pre-push\"  && exit 1"
+      "command": "npm run test"
     }
   ]
 }
