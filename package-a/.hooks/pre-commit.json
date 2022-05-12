@@ -1,0 +1,8 @@
+{
+  "steps": [
+    {
+      "name": "A commit",
+      "command": "echo \"Run A pre-commit\""
+    }
+  ]
+}
