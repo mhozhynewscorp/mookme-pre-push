@@ -7,7 +7,7 @@
     "lint": "echo \"Run B pre-commit\"",
     "test": "echo \"Error: no test specified for B\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [""],
   "author": "",
   "license": "ISC"
 }
