@@ -1,7 +1,7 @@
 {
   "name": "package-b",
   "version": "1.0.0",
-  "description": "",
+  "description": "push hook isn't working from packages level: ooops!",
   "main": "index.js",
   "scripts": {
     "lint": "echo \"Run B pre-commit\"",
