@@ -1,0 +1,8 @@
+{
+  "steps": [
+    {
+      "name": "Root precommit",
+      "command": "echo \"Run root pre-commit\""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "steps": [
     {
-      "name": "Root push",
+      "name": "Run root test",
       "command": "npm run test"
     }
   ]
